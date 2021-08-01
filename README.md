@@ -2,6 +2,10 @@
 
 Trends are included at the top of the .ipynb
 
+- - -
+
+© Liang Gong. Confidential and Proprietary. All Rights Reserved.
+
 
 # Python API Homework - What's the Weather Like?
 
